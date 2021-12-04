@@ -1,0 +1,123 @@
+
+:root{
+    --dark-color: rgb(35, 17, 59);
+    --light-color:whitesmoke;
+}
+
+
+@font-face {
+    font-family: "Basic";
+    src: url(Roboto_Condensed/RobotoCondensed-Light.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Basic";
+    src: url(Roboto_Condensed/RobotoCondensed-Bold.ttf);
+    font-style: bold;
+    font-weight: 600;
+}
+
+body{
+    background-image: url("galaxy.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size:cover;
+
+    color: var(--dark-color);
+    background-color: var(--dark-color);
+    margin-top: 85px;
+    margin-bottom: 85px;
+
+    
+}
+    
+
+
+h1{
+    padding: 0;
+    margin:0;
+    
+    font-family: basic;
+    font-style: bold;
+    font-weight: 600;
+
+}
+
+h3{
+    font-family: basic;
+    font-style: bold;
+    font-weight: 600;
+    padding: 0;
+    margin:0;
+    padding: 20px;
+    border-style: solid;
+    border-color: var(--dark-color);
+    border-width: 4px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: solid;
+    border-left-style: hidden;
+}
+
+p{
+    font-family: basic;
+    font-style: normal;
+    font-weight: 100;
+    margin-top: 10px;
+    margin: 20px;
+    border: 4px;
+    border-style: solid;
+    border-color: var(--dark-color);
+    padding: 10px;
+    border-radius: 15px;
+}
+.button{
+    font-family: basic;
+    font-style: normal;
+    font-weight: 100;
+    background-color: var(--dark-color);
+    color: var(--light-color);
+    border: solid;
+    border-radius: 5px;
+    border-color: var(--dark-color);
+
+}
+.date{
+    font-family: basic;
+    font-style: normal;
+    font-weight: 100;
+
+}
+.text{
+    background-image: url("marble.jpg");
+    background-size: 200%;
+    background-repeat: no-repeat;
+
+    width: 400px;
+    height: 500px;
+    border-radius: 30px;
+    
+   
+    display: grid;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    
+    
+}
+.wheel{
+    display: grid;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+    
+
