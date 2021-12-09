@@ -32,16 +32,16 @@ body{
     margin-top: 85px;
     margin-bottom: 85px;
 
-    
+
 }
-    
 
 
-h1{
+
+h2 {
     padding: 0;
     margin:0;
-    
-    font-family: basic;
+
+    color: white;
     font-style: bold;
     font-weight: 600;
 
@@ -100,24 +100,24 @@ p{
     width: 400px;
     height: 500px;
     border-radius: 30px;
-    
-   
+
+
     display: grid;
     place-items: center;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    
-    
-    
+
+
+
 }
 .wheel{
     display: grid;
     place-items: center;
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 
-    
+
 
