@@ -1,0 +1,23 @@
+{
+  "name": "horoskop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.1.0",
+    "vue": "^3.2.24"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshguhli/horoskop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshguhli/horoskop/issues"
+  },
+  "homepage": "https://github.com/marshguhli/horoskop#readme"
+}
