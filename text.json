@@ -1,5 +1,6 @@
 [
     {
+      "id": 0,
       "nazev":"Beran",
       "startIndex": 321,
       "endIndex": 420,
@@ -10,6 +11,7 @@
         "Žena narozená v Beranu je silná a energická. Říká to, co si opravdu myslí. Stojí si za svými ideály a má potřebu prosadit se. Je nezávislá, ale přesto potřebuje lásku a pozornost."]
     },
     {
+      "id": 1,
       "nazev":"Býk",
       "startIndex": 421,
       "endIndex": 521,
@@ -20,6 +22,7 @@
           "Velmi důležitá je pro něj domácí pohoda a dokáže ocenit materiální požitky, jako jsou luxusní věci nebo dobré jídlo. V lásce je stálý. Bouřlivé emoce od něj moc nečekejte, zato vás bude zahrnovat luxusními dárečky a zvát na dobré večeře."]
     },
     {
+      "id": 2,
       "nazev":"Blíženec",
       "startIndex": 522,
       "endIndex": 621,
@@ -30,6 +33,7 @@
              "Žena ve znamení Blíženců v sobě ukrývá několik osobností, jednu zajímavější než druhou. Je kreativní, přátelská, otevřená a veselá, má pestrou paletu koníčků a široký okruh přátel."]
       },
       {
+        "id": 3,
         "nazev":"Rak",
         "startIndex": 622,
         "endIndex": 722,
@@ -41,6 +45,7 @@
 
       },
       {
+        "id": 4,
         "nazev":"Lev",
         "startIndex": 723,
         "endIndex": 822,
@@ -52,6 +57,7 @@
 
       },
       {
+        "id": 5,
         "nazev":"Panna",
         "startIndex": 823,
         "endIndex": 922,
@@ -63,6 +69,7 @@
 
       },
       {
+        "id": 6,
         "nazev":"Váhy",
         "startIndex": 923,
         "endIndex": 1023,
@@ -74,6 +81,7 @@
 
       },
       {
+        "id": 7,
         "nazev":"Štír",
         "startIndex": 1024,
         "endIndex": 1122,
@@ -85,6 +93,7 @@
 
       },
       {
+        "id": 8,
         "nazev":"Střelec",
         "startIndex": 1123,
         "endIndex": 1221,
@@ -96,9 +105,10 @@
 
       },
       {
+        "id": 9,
         "nazev":"Kozoroh",
         "startIndex": 1121,
-        "endIndex": 19,
+        "endIndex": 121,
         "text": ["Pro Kozorohy je typická ambiciózní a cílevědomá povaha. Toto znamení je pod vládou živlu Země, úspěch je pro jeho zrozence velmi důležitý. Touží po uznání. Myslí dlouhodobě a dokážou se pro své cíle ledasčeho příjemného zříct. Jsou spolehliví a odpovědní. Svou povahou jsou introverti a hloubky jejich duše zná jen pár blízkých přátel, před ostatními skrývají své zranitelné nitro pod pevnou slupkou.",
            "Muž Kozoroh: Kozoroh bývá ve společnosti trochu plachý a většinou se drží spíš v pozadí, ale na druhou stranu je rád, když může své okolí pobavit. Za svými názory si dokáže stát a nemění je.",
             "Je to běžec na dlouhé tratě, který ví, co chce. Vyniká spolehlivostí a záleží mu na tom, aby s ním byli lidé spokojeni. Své skutečné pocity a trápení ukrývá pod tlustou slupkou a málokdo ho doopravdy zná takového, jaký je v hloubce duše.",
@@ -107,6 +117,7 @@
 
       },
       {
+        "id": 10,
         "nazev":"Vodnář",
         "startIndex": 121,
         "endIndex": 220,
@@ -118,6 +129,7 @@
 
       },
       {
+        "id": 11,
         "nazev":"Ryby",
         "startIndex": 221,
         "endIndex": 320,

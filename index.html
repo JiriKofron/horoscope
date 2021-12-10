@@ -9,15 +9,27 @@
     <title>Horoskop</title>
 </head>
 <body>
-
 <div class="wheel" id="wheel">
-    <img src="wheel.png" rel="zodiac_wheel" width= 300px height= 300px>
+    <img src="wheel.png" rel="zodiac_wheel" width= 400px height= 400px>
 </div>
-<input type="date" class="date"/>
-<button type="submit" class="btn">Odeslat</button>
-<div>
-    <h2 class="zodiac-sign"></h2>
-</div>
+
+<main class="zodiac-sign">
+    <section class="zodiac-sign__control">
+        <input type="date" class="zodiac-sign__date" />
+        <button type="submit" class="zodiac-sign__btn">Odeslat</button>
+    </section>
+    <section class="zodiac-sign__info">
+    <div class="zodiac-sign__header">
+        <h2 class="zodiac-sign__header__h2"></h2>
+    </div>
+    <article class="zodiac-sign__text">
+
+    </article>
+    </section>
+
+</main>
+
+
 <script src="index.js"></script>
 </body>
 </html>
